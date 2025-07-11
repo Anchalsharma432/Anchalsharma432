@@ -45,9 +45,9 @@
 ---
 
 ### 📊 GitHub Stats
-![Anchal's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Anchal's GitHub stats](https://github-readme-stats.vercel.app/api?username=anchalsharma432&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anchalsharma432&theme=tokyonight&hide_border=true)
 
 ---
 
